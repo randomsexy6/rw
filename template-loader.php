@@ -3,9 +3,6 @@
 if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
 {
 ?>
-
-
-
 <!DOCTYPE HTML>
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID" class="orientalplay">
 <head>
